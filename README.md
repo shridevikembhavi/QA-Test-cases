@@ -1,4 +1,4 @@
 # QA-Test-cases
--Traditional style test cases 
--BDD-style test cases
--Both positive and negative test cases 
+1.Traditional style test cases 
+2.BDD-style test cases
+3.Both positive and negative test cases 
